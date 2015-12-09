@@ -1,0 +1,6 @@
+F:\TestCode\WebSocket\WebClient\WebClient\WebClient\bin\WebClient.dll.config
+F:\TestCode\WebSocket\WebClient\WebClient\WebClient\bin\WebClient.dll
+F:\TestCode\WebSocket\WebClient\WebClient\WebClient\bin\WebClient.pdb
+F:\TestCode\WebSocket\WebClient\WebClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+F:\TestCode\WebSocket\WebClient\WebClient\WebClient\obj\Debug\WebClient.dll
+F:\TestCode\WebSocket\WebClient\WebClient\WebClient\obj\Debug\WebClient.pdb
